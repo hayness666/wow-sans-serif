@@ -30,7 +30,7 @@ Overrides the default World of Warcraft fonts:
 
 ## Installation
 
-1. [Download the latest release ZIP](https://github.com/hayness666/wow-serif-font/releases)
+1. [Download the latest release ZIP](https://github.com/hayness666/wow-sands-serif/releases)
  (or clone this repo)
 2. Extract the `Fonts/` folder
 3. Drop the **Fonts** folder directly into your WoW install directory  
